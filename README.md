@@ -1,4 +1,5 @@
 # Phase 1: Problem statement: 
+
 # The recent rise of intense floods has currently resurfaced. Now that it has returned, it is a world-wide issue that has affected millions of people and the lives that they are going through. Intense flooding has caused exposure to intense injuries/deaths and illnesses, destruction of both personal and public properties worth millions, and significant economic losses because of the crop destruction and disruption of commerce. In recent statistics posted by the Philippine Natural Disaster Health Risk Reduction and Management Operations Center, a total of 225 occurrences of small-scale natural hazard incidents were recorded in 2024. The most frequently reported incidents were flash floods or flooding, accounting for 53 occurrences or 23.6 percent. This shows that our country has yet to act upon this dire issue despite it affecting thousands of lives every year, and it shows how we urgently need to fix this issue before it continues hurting us as a country.
 
 # Phase 2: Creation of Objectives: 
@@ -51,6 +52,7 @@
 <img width="121" height="57" alt="image" src="https://github.com/user-attachments/assets/e48f146e-96de-418a-a596-62a710541eb1" />
 
 # Phase 6: Testing the Program
+
 # Step 1: Inputing data
 <img width="1235" height="106" alt="image" src="https://github.com/user-attachments/assets/ffa4c947-ac3f-4340-8903-df3b6bf87a53" />
 
@@ -63,6 +65,9 @@
 # Final Test Run
 <img width="1327" height="342" alt="image" src="https://github.com/user-attachments/assets/6ecb24c5-3677-4a4c-9529-60f685eebb56" />
 
+# References
+# Authentication challenge pages. (2024). Psa.gov.ph. 
+  https://psa.gov.ph/content/total-225-small-scale-natural-hazard-occurred-philippines-2024
 
 
 
