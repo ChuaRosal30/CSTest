@@ -13,3 +13,14 @@
 # d. Incorporates real-time monitoring capabilities that give constant reports on rain intensity, river conditions, and weather-related warnings. The system will send warnings to alert users about shifting conditions and possible flooding depending on the location.
 
 # e. Provides an implementation of a community reporting capability that enables users to report on active flood events. These reports will be accessible in the application and archived in a database to feed into subsequent updates in affected provinces' flood histories and risk factors.
+
+# Features:
+
+# Calculates the risk of flooding in each province (using statistics, environmental factors, and flooding history) to identify the most prone provinces.
+
+# Categorizes each province according to their estimated risk through a color-coded system. 
+
+# Recommends an evacuation plan, risk reduction plan, and/or emergency response plan according to the risk category of each province. Additionally contains the phone numbers of local emergency response teams.
+
+
+
