@@ -25,7 +25,7 @@
 # Phase 4: Psuedocode Writing
 # Step 1: Gather the statistics, environmental conditions, and the past flood history data of each province.
 
-# Step 2: Analyze the data and identify the provinces most prone to flooding.
+# Step 2: Analyze the data and identify the risk provided by the statistics provide.
 
 # Step 3: With the analyzed data, color code the province based on the percentage of how likely the place is to be flooded by low ( green - not serious), intermediate (not very serious), and critical (very serious), to see which area is to be most prioritized.
 
@@ -33,9 +33,44 @@
 
 # Step 5: Apply the system into each province. 
 
-# Phase 5: Coding with Visual Support
-# Step 1: Gathering data (statistics, environmanetal conditions, flood history)
+# Phase 5: Coding with Visual Support:
+
+# Step 1: Gathering data (statistics, environmental conditions, flood history)
 <img width="1635" height="362" alt="Screenshot 2025-10-02 203231" src="https://github.com/user-attachments/assets/47d65c85-7182-4c98-8bbb-f29a7229efe2" />
+
+# Step 2: Analyzing data provided and creating the color coding
+<img width="1345" height="684" alt="image" src="https://github.com/user-attachments/assets/a5ecc0e2-6931-4b93-a4d2-a8acbc31fab0" />
+
+# Step 3: Creating evacuation plan based on the color codes
+<img width="1903" height="300" alt="image" src="https://github.com/user-attachments/assets/89704c9f-c54d-4b4a-a5ca-0c27ce85048a" />
+
+# Step 4: Printing everything (Gathered data, Color codes, evacuation plans) and also calling all functions
+<img width="1327" height="515" alt="image" src="https://github.com/user-attachments/assets/f60ba1d9-8b1a-41ef-9126-95849bc983c8" />
+
+# Step 5: Activating the code
+<img width="121" height="57" alt="image" src="https://github.com/user-attachments/assets/e48f146e-96de-418a-a596-62a710541eb1" />
+
+# Phase 6: Testing the Program
+# Step 1: Inputing data
+<img width="1235" height="106" alt="image" src="https://github.com/user-attachments/assets/ffa4c947-ac3f-4340-8903-df3b6bf87a53" />
+
+# Step 2: Getting the color code and printing the gathered data
+<img width="1033" height="169" alt="image" src="https://github.com/user-attachments/assets/6ad29fac-c790-4bca-93ca-6ca381980972" />
+
+# Step 3: Giving the final evacuation plan based on the color code
+<img width="1535" height="36" alt="image" src="https://github.com/user-attachments/assets/cf16674e-7142-4152-8d77-d62bd6592fd9" />
+
+# Final Test Run
+<img width="1327" height="342" alt="image" src="https://github.com/user-attachments/assets/6ecb24c5-3677-4a4c-9529-60f685eebb56" />
+
+
+
+
+
+
+
+
+
 
 
 
