@@ -22,5 +22,16 @@
 
 # Recommends an evacuation plan, risk reduction plan, and/or emergency response plan according to the risk category of each province. Additionally contains the phone numbers of local emergency response teams.
 
+Psuedocode Writing
+Step 1: Gather the statistics, environmental conditions, and the past flood history data of each province.
+
+Step 2: Analyze the data and identify the provinces most prone to flooding.
+
+Step 3: With the analyzed data, color code the province based on the percentage of how likely the place is to be flooded by low ( green - not serious), intermediate (not very serious), and critical (very serious), to see which area is to be most prioritized.
+
+Step 4: Using the color coding, make designed evacuation and safety plans that fit the flooding situation of each area. 
+
+Step 5: Apply the system into each province. 
+
 
 
