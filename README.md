@@ -28,7 +28,7 @@
 
 # Step 2: Analyze the data and identify the risk provided by the statistics provide.
 
-# Step 3: With the analyzed data, color code the province based on the percentage of how likely the place is to be flooded by low ( green - not serious), intermediate (not very serious), and critical (very serious), to see which area is to be most prioritized.
+# Step 3: With the analyzed data, color code the province based on how likely the place is to be flooded by low ( green - not serious), intermediate (not very serious), and critical (very serious).
 
 # Step 4: Using the color coding, make designed evacuation and safety plans that fit the flooding situation of each area. 
 
